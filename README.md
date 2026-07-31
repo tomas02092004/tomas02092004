@@ -17,4 +17,4 @@ Soy estudiante de quinto semestre de la Licenciatura en Sistemas en la Universid
 
 ## Contacto
 
-Podés encontrarme en LinkedIn: [colocá aquí el enlace a tu perfil]
+Podés encontrarme en LinkedIn:https://www.linkedin.com/in/tom%C3%A1s-arregui-balletto-47073232a/
