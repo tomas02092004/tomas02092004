@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Tomas Arregui 👋
 
-<!--
-**tomas02092004/tomas02092004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de quinto semestre de la Licenciatura en Sistemas en la Universidad ORT Uruguay. Me interesa especialmente el desarrollo de software y actualmente busco seguir creciendo mediante proyectos y una primera experiencia profesional en tecnología.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- JavaScript
+- SQL
+- Git
+
+## Actualmente
+
+- Profundizando mis conocimientos en desarrollo de software.
+- Trabajando en proyectos académicos y personales.
+- Buscando oportunidades trainee o junior.
+
+## Contacto
+
+Podés encontrarme en LinkedIn: [colocá aquí el enlace a tu perfil]
